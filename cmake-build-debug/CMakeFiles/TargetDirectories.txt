@@ -1,0 +1,3 @@
+/home/muis/Documents/GitHub/algorithmsanddatastructures/cmake-build-debug/CMakeFiles/algorithmsanddatastructures.dir
+/home/muis/Documents/GitHub/algorithmsanddatastructures/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/muis/Documents/GitHub/algorithmsanddatastructures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
